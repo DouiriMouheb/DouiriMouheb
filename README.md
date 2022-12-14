@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DouiriMouheb
 - 👀 I’m interested in Computers and information technology
-- 🌱 I’m currently learning Angular and SpringBoot to be a Full Stack Web Developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a MEAN Stack Developer and learning DevOps
 - 📫 How to reach me : 
+- mouhebdouiri@yahoo.com
 - douirijet1@gmail.com
 
 <!---
