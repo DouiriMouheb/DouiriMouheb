@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @DouiriMouheb
-- 👀 I’m interested in Computers and information technology
-- 🌱 I’m a Full Stack Developer and learning DevOps
-- 📫 How to reach me : 
-- mouhebdouiri@yahoo.com
-- douirijet1@gmail.com
+🇬🇧
+👋 Hi, I’m @DouiriMouheb, a passionate Full Stack Developer with a strong interest in computers and information technology.
+I'm currently expanding my skill set by diving into the world of DevOps. 
+Always eager to learn and grow, I'm open to connecting and collaborating on exciting tech projects.
+📫 Feel free to reach out to me at
+mouhebdouiri@yahoo.com
+or
++39 331 230 6589.
 
-<!---
-DouiriMouheb/DouiriMouheb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇮🇹
+👋 Ciao, sono @DouiriMouheb, uno sviluppatore Full Stack appassionato con un forte interesse per l'informatica e la tecnologia.
+Attualmente sto ampliando le mie competenze esplorando il mondo del DevOps. 
+Sempre desideroso di imparare e crescere, sono aperto a collaborazioni e progetti tecnologici entusiasmanti.
+📫 Sentiti libero di contattarmi a
+mouhebdouiri@yahoo.com
+oppure al
++39 331 230 6589.
