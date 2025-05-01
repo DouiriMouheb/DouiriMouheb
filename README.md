@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @DouiriMouheb, <br>a passionate Full Stack Developer with a strong interest <br>in computers and information technology. <br>I'm currently expanding my skill set by diving into<br> the world of DevOps. Always eager to learn and grow, <br>I'm open to connecting and collaborating <br>on exciting tech projects. <br>📫 Feel free to reach out to me at mouhebdouiri@yahoo.com <br>or <br>+39 331 230 6589.
-<br><br><br><br>👋 Ciao, sono @DouiriMouheb, <br>uno sviluppatore Full Stack appassionato con un forte interesse <br>per l'informatica e la tecnologia.<br>Attualmente sto ampliando le mie competenze esplorando <br>il mondo del DevOps. Sempre desideroso di imparare e crescere,<br> sono aperto a collaborazioni<br> e progetti tecnologici entusiasmanti.<br>📫 Sentiti libero di contattarmi a <mouhebdouiri@yahoo.com <br>oppure al <br> +39 331 230 6589.
+<br><br><br><br>👋 Ciao, sono @DouiriMouheb, <br>uno sviluppatore Full Stack appassionato con un forte interesse <br>per l'informatica e la tecnologia.<br>Attualmente sto ampliando le mie competenze esplorando <br>il mondo del DevOps. Sempre desideroso di imparare e crescere,<br> sono aperto a collaborazioni<br> e progetti tecnologici entusiasmanti.<br>📫 Sentiti libero di contattarmi a mouhebdouiri@yahoo.com <br>oppure al <br> +39 331 230 6589.
 
 
 # 💻 Tech Stack:
